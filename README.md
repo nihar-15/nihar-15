@@ -4,4 +4,4 @@
 - 💞️ I'm open to collaborating on diverse development projects.
 - 📫 Feel free to reach out to me via [(https://www.linkedin.com/in/niharika-kumar-456205233/)].
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Despite my username being @nihar-15, I'm actually a cute, charming girl who enjoys coding in Java and finds languages like Go and Python fascinating!
+
