@@ -18,17 +18,14 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>Hello! I'm Niharika Kumar, pursuing a B.Tech in Computer Science and Engineering at Shri Ramdeobaba College of Engineering and Management, Nagpur. I'm skilled in Java, AWS, Python, HTML,Go, and more, with a strong focus on efficient and effective problem-solving. Let's connect to explore collaborations and opportunities in technology and engineering!</h3>
+<h3 align="left">👩‍💻  About Me <br>      Hello! I'm Niharika Kumar, pursuing a B.Tech in Computer Science and Engineering at Shri Ramdeobaba College of Engineering and Management, Nagpur. I'm skilled in Java, AWS, Python, HTML,Go, and more, with a strong focus on efficient and effective problem-solving. Let's connect to explore collaborations and opportunities in technology and engineering!</h3>
 
 ###
 
-<p align="left">I'm  Niharika from  Nagpur , Maharashtra. <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning  Flutter , NLP , Django<br>- ⚡ In my free time I enjoy exploring new technologies, working on personal coding projects, and reading about the latest advancements in computer science and engineering.</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
