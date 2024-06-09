@@ -59,5 +59,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihar-15&" alt="nihar-15" /></p>
 
 ###
