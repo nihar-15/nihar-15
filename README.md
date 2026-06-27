@@ -16,19 +16,16 @@
   </a>
 </div>
 
-###
 
-<h1 align="center">Hi, I'm **Niharika Kumar** 👋
+<h1 align="center">Hi, I'm Niharika Kumar 👋
 </h1>
 
-###
-
 <h3 align="left">👩‍💻  About Me <br> 
-I'm a **Software Engineer** passionate about building scalable and efficient applications. I have experience in both **backend** and **frontend** development, with a strong interest in designing reliable systems and writing clean, maintainable code.
+I'm a Software Engineer passionate about building scalable and efficient applications. I have experience in both backend and frontend development, with a strong interest in designing reliable systems and writing clean, maintainable code.
 
-I'm always eager to learn new technologies, collaborate with developers, and contribute to **open-source projects**. I enjoy solving challenging problems, exploring modern development tools, and continuously improving my software engineering skills.
+I'm always eager to learn new technologies, collaborate with developers, and contribute to open-source projects. I enjoy solving challenging problems, exploring modern development tools, and continuously improving my software engineering skills.
 
-**Tech Stack:** Java, Go, Python, Spring Boot, React, Django, SQL, Docker, Kubernetes, AWS
+Tech Stack:Java, Go, Python, Spring Boot, React, SQL, Docker, Kubernetes, AWS ,Jenkins
 
 I'm open to collaborating on exciting projects and connecting with developers from around the world. Feel free to explore my repositories or reach out if you'd like to build something together!
 </h3>
