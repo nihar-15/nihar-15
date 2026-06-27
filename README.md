@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/niharika-kumar-456205233/" target="_blank">
+  <a href="https://www.linkedin.com/in/niharika-rakesh-kumar-456205233/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="kumarniharika684@gmail.com" target="_blank">
@@ -18,11 +18,20 @@
 
 ###
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, I'm **Niharika Kumar** 👋
+</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>      Hello! I'm Niharika Kumar, pursuing a B.Tech in Computer Science and Engineering at Shri Ramdeobaba College of Engineering and Management, Nagpur. I'm skilled in Java, AWS, Python, HTML,Go, and more, with a strong focus on efficient and effective problem-solving. Let's connect to explore collaborations and opportunities in technology and engineering!</h3>
+<h3 align="left">👩‍💻  About Me <br> 
+I'm a **Software Engineer** passionate about building scalable and efficient applications. I have experience in both **backend** and **frontend** development, with a strong interest in designing reliable systems and writing clean, maintainable code.
+
+I'm always eager to learn new technologies, collaborate with developers, and contribute to **open-source projects**. I enjoy solving challenging problems, exploring modern development tools, and continuously improving my software engineering skills.
+
+**Tech Stack:** Java, Go, Python, Spring Boot, React, Django, SQL, Docker, Kubernetes, AWS
+
+I'm open to collaborating on exciting projects and connecting with developers from around the world. Feel free to explore my repositories or reach out if you'd like to build something together!
+</h3>
 
 ###
 
@@ -39,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
