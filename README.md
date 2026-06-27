@@ -1,65 +1,69 @@
+```md
 <div align="center">
-  
-</div>
 
-###
+# Hi, I'm Niharika Kumar 👋
+
+Software Engineer | Backend Developer | Open Source Enthusiast
+
+Building scalable applications, learning every day, and contributing to impactful software.
+
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/niharika-rakesh-kumar-456205233/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="kumarniharika684@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="NiharikaKumarCSE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+
+<a href="https://www.linkedin.com/in/niharika-rakesh-kumar-456205233/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28"/>
+</a>
+
+<a href="mailto:kumarniharika684@gmail.com">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28"/>
+</a>
+
+<a href="https://t.me/NiharikaKumarCSE" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="28"/>
+</a>
+
 </div>
 
+---
 
-<h1 align="center">Hi, I'm Niharika Kumar 👋
-</h1>
+## 👩‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me <br> 
-I'm a Software Engineer passionate about building scalable and efficient applications. I have experience in both backend and frontend development, with a strong interest in designing reliable systems and writing clean, maintainable code.
+I'm a Software Engineer passionate about designing reliable and scalable applications. I enjoy building backend systems, creating intuitive user interfaces, and solving challenging engineering problems.
 
-I'm always eager to learn new technologies, collaborate with developers, and contribute to open-source projects. I enjoy solving challenging problems, exploring modern development tools, and continuously improving my software engineering skills.
+My interests include backend development, cloud technologies, DevOps, distributed systems, and open-source software. I'm always looking to learn new technologies, collaborate with developers, and contribute to meaningful projects.
 
-Tech Stack:Java, Go, Python, Spring Boot, React, SQL, Docker, Kubernetes, AWS ,Jenkins
+📌 **Let's connect on LinkedIn for discussions and collaborate on GitHub through open-source contributions.**
 
-I'm open to collaborating on exciting projects and connecting with developers from around the world. Feel free to explore my repositories or reach out if you'd like to build something together!
-</h3>
+---
 
-###
+## 🛠 Tech Stack
 
+### Languages
+Java • Go • Python • JavaScript • SQL
 
-<h3 align="left">🛠 Language and tools</h3>
+### Backend
+Spring Boot • Django • REST APIs
 
-###
+### Frontend
+React • Angular • HTML • CSS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-</div>
+### DevOps & Cloud
+Docker • Kubernetes • Jenkins • AWS • Git
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihar-15&" alt="nihar-15" /></p>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nihar-15" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, discuss software engineering, backend development, cloud technologies, and collaborate on open-source projects.
+
+⭐ Feel free to explore my repositories, raise issues, or contribute!
+```
